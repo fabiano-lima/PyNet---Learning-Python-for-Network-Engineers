@@ -1,4 +1,4 @@
-# PyNet---Learning-Python-for-Network-Engineers
+# PyNet---Learning-Python-for-Network-Engineers - Free Course Version
 
 Exercices done during the free course of Learning Python for Network Engineers - https://pynet.twb-tech.com/
 
